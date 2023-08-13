@@ -14,3 +14,16 @@ else if (edad >= 18){
 alert("BIENVENIDO A LA TIENDA VIRTUAL"); 
 }
 solicitarNombre();
+const productos = [
+  { nombre: "Producto1", precio: 15000 },
+  { nombre: "Producto2", precio: 5000 },
+];
+
+function sumar (Producto1, Producto2){
+  let resultado= Producto1 + Producto2
+  return resultado
+
+}
+document.getElementById("cabo").innerHTML = "codigo mentor";
+document.getElementById("cabo").style.color = "blue";
+document.getElementById("cabo").style.fontSize = 25 px;
