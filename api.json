@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Coca Cola",
+      "thumbnailUrl": "https://www.pixelsquid.com/png/coca-cola-2l-bottle-2506039007117318069?image=G03"
+    },  
+    {
+      "precio": 3000,
+      "id": 2,
+      "title": "Vino Tinto",
+      "thumbnailUrl": "https://www.pixelsquid.com/png/wine-oyster-bay-red-wine-2504666895685261199?image=G03"
+    },
+    {
+      "precio": 15000,
+      "id": 3,
+      "title": "Jack Daniels",
+      "thumbnailUrl": "https://www.pixelsquid.com/png/jack-daniels-2587941614664029304?image=G03"
+    }, 
+    {
+      "precio": 2900,
+      "id": 4,
+      "title": "Ron Malibu",
+      "thumbnailUrl": "https://www.pixelsquid.com/png/malibu-caribbean-coconut-rum-750ml-bottle-2492187671854585658?image=G03"
+    },
+    {
+      "precio": 700,
+      "id": 5,
+      "title": "Estrella Beer",
+      "thumbnailUrl": "https://www.pixelsquid.com/png/beer-can-estrella-damm-barcelona-500ml-2616909500984071403?image=G03"
+    },
+    {
+      "precio": 3200,
+      "id": 6,
+      "title": "Absolut Vodka",
+      "thumbnailUrl": "https://www.pixelsquid.com/png/absolut-vodka-700ml-bottle-2613329911938552871?image=G03"
+    }
+]   
